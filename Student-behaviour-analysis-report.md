@@ -84,7 +84,7 @@ import matplotlib.pyplot as plt
 The data is loaded from a CSV file  into a Pandas DataFrame named data.
 
 ```python
-data = pd.read_csv('xAPI-Edu-Data.csv')
+data = pd.read_csv('Studentsbehaviouranalysis.csv')
 ```
 
 ### Data Exploration
