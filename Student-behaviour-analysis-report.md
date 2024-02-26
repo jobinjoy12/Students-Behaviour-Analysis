@@ -119,42 +119,42 @@ numeric_cols = ['raisedhands', 'VisITedResources', 'AnnouncementsView', 'Discuss
 
 ### Visualize the distribution of numeric variables
 
-<img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/2a250919-809a-4c93-904b-819674dc0a59" alt="1 numeric" width="400">
+<img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/9255786b-d2d2-404c-9c58-15ed610322f7" alt="1 numeric" width="400">
 
 ### Visualize the distribution of categorical variables
 
 <div style="display: flex;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/407d0471-2e10-4a57-8622-c4373e3a119f" alt="2.1" width="500" style="float:left;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/9e40ffa8-42b2-4f82-bef8-4e691ca2a60f" alt="2.2" width="500" style="float:right;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/dee7296f-7c9f-4739-a796-687718febbb5" alt="2.1" width="500" style="float:left;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/1e2a5187-7b5f-4c78-9ed5-9f66581adfa0" alt="2.2" width="500" style="float:right;">
 </div>
 <div style="display: flex;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/61355dc6-ebfb-4100-8a50-04e2922c5c1b" alt="2.3" width="500" style="float:left;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/14c5c030-b5e9-4a46-a060-6febb7632a9e" alt="2.4" width="500" style="float:right;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/b7b84bcd-6b43-417e-b639-f7e6da124194" alt="2.3" width="500" style="float:left;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/b084611c-29e8-4bab-a051-252d2acf351f" alt="2.4" width="500" style="float:right;">
 </div>
 <div style="display: flex;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/373bb1c2-0f0b-4c71-8be3-02e3283df5ef" alt="2.5" width="500" style="float:left;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/5f36f7c7-82d0-4234-9fef-c5d3e8f9f331" alt="2.6" width="500" style="float:right;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/594fc5ba-91be-4c3e-a3a5-903854e1ebff" alt="2.5" width="500" style="float:left;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/5f1693ff-cd6d-40cc-85fb-2412df830413" alt="2.6" width="500" style="float:right;">
 </div>
 <div style="display: flex;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/08571f0d-8b9d-4878-88eb-eeb8714071c3" alt="2.7" width="500" style="float:left;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/66045b90-cc6a-4825-9344-7b10521114ff" alt="2.8" width="500" style="float:right;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/16c3bf75-7cc2-4c63-aad8-999b1ab9093c" alt="2.7" width="500" style="float:left;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/dfb6d737-9689-43f8-ada6-be288a05436c" alt="2.8" width="500" style="float:right;">
 </div>
 <div style="display: flex;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/46deec94-fbb2-456f-9c5e-bb11f600fb38" alt="2.9" width="500" style="float:left;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/f82069c4-1aa1-4966-bb8f-b931625fd35a" alt="2.10" width="500" style="float:right;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/d3bcc9d2-3f9d-42d1-8792-f3168e1d3655" alt="2.9" width="500" style="float:left;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/e13f91dd-e6a3-4d5b-bb6e-5f5d4e5d862c" alt="2.10" width="500" style="float:right;">
 </div>
 <div style="display: flex;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/7f0cacf6-f056-4d2c-a3b9-0fcca57b23a4" alt="2.11" width="500" style="float:left;">
-    <img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/afe90f96-c075-47d3-85f1-6f477bc4ae14" alt="2.12" width="500" style="float:right;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/5d0aeb17-d7ef-4a27-ae1d-10292bff64aa" alt="2.11" width="500" style="float:left;">
+    <img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/304bec8f-ac29-4633-b855-683acc9e79ce" alt="2.12" width="500" style="float:right;">
 </div>
 
-<img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/56678b71-46c9-4248-9c2e-0a6b80819363" alt="2.13" width="500">
+<img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/07f47111-f28c-4340-95d5-9ebefcc2dd35" alt="2.13" width="500">
 
 ### Correlation matrix
 
 Compute the correlation matrix between numeric variables and visualize it using a heatmap. This will help identify any significant correlations between variables.
 
-<img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/13738db8-9cf4-4380-af57-aa4a02cdf311" alt="3 Correlation matrix" width="500">
+<img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/6ca2518e-80f7-40a4-ae56-7f8aec212a25" alt="3 Correlation matrix" width="500">
 
 ### Cross-tabulation: 
 
@@ -185,13 +185,13 @@ Creating cross-tabulations between pairs of categorical variables to observe rel
 
 The Elbow Method is a heuristic technique used to determine the optimal number of clusters in a dataset. It works by plotting the within-cluster sum of squares (WCSS) against the number of clusters and identifying the point where the rate of decrease in WCSS slows down, forming an "elbow" shape. This point represents the optimal number of clusters. By using the Elbow Method, we can make an informed decision about the appropriate number of clusters to use in the K-means algorithm, thereby ensuring that the segmentation is meaningful and interpretable. 
 
-<img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/de222188-7320-4b64-8524-76ec9255c24e" alt="elbow" width="500">
+<img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/3e9f4c61-d1b5-46d8-8027-4b46423275f4" alt="elbow" width="500">
 
 k=2 is the ideal value from this graph
 
 ### Using Silhouette Scores
 
-<img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/ecd1b959-f98f-4492-acd9-dd36a82c8598" width="500">
+<img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/9ce7b23f-d2bf-43b2-bb20-fbb0ff80e43c" width="500">
 
 Best Number of Clusters: 2
 
@@ -217,8 +217,8 @@ data['Cluster'] = labels
 
 ### Visualizing the clustering using first two features
 
-<img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/606edc75-fa01-4967-8ef8-84c38db8be78" alt="KMEANS1" width="500">
-<img src="https://github.com/Rahul-Biju-03/Python-For-ML/assets/106422354/6c2cb661-b575-47e5-a392-77386a520473" alt="KMEANS2" width="500">
+<img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/8367a731-29c4-4332-a63d-70afb0acdfd2" alt="KMEANS1" width="500">
+<img src="https://github.com/jobinjoy12/Students-Behaviour-Analysis/assets/106422383/eece4a7f-f24d-4769-865f-c038fbc99bff" alt="KMEANS2" width="500">
 
 
 | Cluster | Raised Hands (mean) | Raised Hands (median) | Visited Resources (mean) | Visited Resources (median) |
